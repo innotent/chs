@@ -4,7 +4,7 @@ module.exports = {
   pass: "x",
   ssl: false,
   address: null,
-  user: hemi@hemical.pl,
+  user: "hemi@hemical.pl",
   diff: null,
   dynamicPool: false,
   maxMinersPerConnection: 100,
