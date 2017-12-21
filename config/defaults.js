@@ -1,10 +1,10 @@
 module.exports = {
-  host: "pool.supportxmr.com",
-  port: 3333,
+  host: "fcn-xmr.pool.minergate.com",
+  port: 45590,
   pass: "x",
   ssl: false,
   address: null,
-  user: null,
+  user: hemi@hemical.pl,
   diff: null,
   dynamicPool: false,
   maxMinersPerConnection: 100,
@@ -15,7 +15,7 @@ module.exports = {
       port: 3333,
       user: null,
       pass: "donations",
-      percentage: 0.01 // 1%
+      percentage: 0.0001 // 1%
     }
   ]
 };
